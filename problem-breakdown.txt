@@ -1,0 +1,26 @@
+1. A turtle moves forwards when you press the "Up" key.
+It can only move forwards, not back, left or right.
+
+2. Cars are randomly generated along the y-axis and will
+move from the right edge of the screen to the left edge.
+
+3. When the turtle hits the top edge of the screen,
+ it moves back to the original position and the player levels up.
+ On the next level, the car speed increases.
+
+4. When the turtle collides with a car,
+it's game over and everything stops.
+
+Step 1:
+Create turtle and make it move up by pressing up
+
+Step 2 generate and spawn cars with random colours from random y-cordinate
+
+Step 3: Add a contition that check if the turtle got hit by a car, if so end game
+
+Step 4: Make a scoreboard that displays the current level
+
+Step 5: Add a finish line
+
+Step 6: Add the level when turtle cross finish line, make turtle return to starting position
+and make the car go faster
